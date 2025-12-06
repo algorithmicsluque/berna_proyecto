@@ -1,0 +1,17 @@
+{
+    "nombre": "Cesar",
+    "archivos": [
+        {
+            "nombre": "Pueba2",
+            "ruta": "archivos\\Pueba2.txt"
+        },
+        {
+            "nombre": "Prueba2",
+            "ruta": "archivos\\Prueba2.txt"
+        },
+        {
+            "nombre": "Prueba3",
+            "ruta": "archivos\\Prueba3.txt"
+        }
+    ]
+}
